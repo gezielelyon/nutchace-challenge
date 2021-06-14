@@ -48,7 +48,8 @@ module.exports = {
     ],
     'react/react-in-jsx-scope': 'off',
     'prettier/prettier': 'error',
-    '@typescript-eslint/explicit-module-boundary-types': 'off'
+    '@typescript-eslint/explicit-module-boundary-types': 'off',
+    'import/prefer-default-export': 'off'
   },
   settings: {
     'import/resolver': {

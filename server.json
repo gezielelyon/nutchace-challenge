@@ -1,0 +1,74 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Geziel",
+      "email": "geziel_barbosa_@hotmail.com",
+      "CPF": "111.111.111-504",
+      "gender": "masculino",
+      "birthday": "03/12/2001",
+      "started": "12/2020",
+      "team": "mobile"
+    },
+    {
+      "id": 2,
+      "name": "Geziel",
+      "email": "geziel_barbosa_@hotmail.com",
+      "CPF": "111.111.111-504",
+      "gender": "masculino",
+      "birthday": "03/12/2001",
+      "started": "12/2020",
+      "team": "web"
+    },
+    {
+      "id": 3,
+      "name": "Geziel",
+      "email": "geziel_barbosa_@hotmail.com",
+      "CPF": "111.111.111-504",
+      "gender": "masculino",
+      "birthday": "03/12/2001",
+      "started": "12/2020",
+      "team": "mobile"
+    },
+    {
+      "id": 4,
+      "name": "Geziel",
+      "email": "geziel_barbosa_@hotmail.com",
+      "CPF": "111.111.111-504",
+      "gender": "masculino",
+      "birthday": "03/12/2001",
+      "started": "12/2020",
+      "team": "web"
+    },
+    {
+      "id": 5,
+      "name": "Geziel",
+      "email": "geziel_barbosa_@hotmail.com",
+      "CPF": "111.111.111-504",
+      "gender": "masculino",
+      "birthday": "03/12/2001",
+      "started": "12/2020",
+      "team": "mobile"
+    },
+    {
+      "id": 6,
+      "name": "Geziel",
+      "email": "geziel_barbosa_@hotmail.com",
+      "CPF": "111.111.111-504",
+      "gender": "masculino",
+      "birthday": "03/12/2001",
+      "started": "12/2020",
+      "team": "web"
+    },
+    {
+      "id": 7,
+      "name": "Geziel",
+      "email": "geziel_barbosa_@hotmail.com",
+      "CPF": "111.111.111-504",
+      "gender": "masculino",
+      "birthday": "03/12/2001",
+      "started": "12/2020",
+      "team": "mobile"
+    }
+  ]
+}
