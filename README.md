@@ -8,7 +8,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 
-# ReactJs Nutcache Challenge
+# ReactJs Nutcache Web Challenge
 This repository contain a challenge created by Nutcache that use ReactJs on solution
 
 ## Technologies Used:
