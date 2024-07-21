@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **React Nutchace Callenge**
+# **Nutchace Callenge**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_nutchace_challenge)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_nutchace_challenge)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_nutchace_challenge)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/react_nutchace_challenge)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/nutchace-challenge)](https://github.com/gezielelyon/nutchace-challenge/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/nutchace-challenge)](https://github.com/gezielelyon/nutchace-challenge/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/nutchace-challenge)](https://github.com/gezielelyon/nutchace-challenge/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/nutchace-challenge)](https://github.com/gezielelyon/nutchace-challenge)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
